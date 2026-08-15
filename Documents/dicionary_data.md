@@ -2,24 +2,24 @@
 
 # Nomes das colunas traduzidos:
 
-id da linha
-id do pedido 
-data do pedido
-data de envio
-modo de envio
-id do cliente
-nome do cliente
-segmento
-Pais
-Cidade
-Estado
-CEP
-Região
-ID do Produto
-Categoria
-Subcategoria
-Nome do Produto
-Valor da Venda
-Quantidade
-Desconto
-Lucro
+- ID da linha
+- ID do pedido
+- Data do pedido
+- Data de envio
+- Modo de envio
+- ID do cliente
+- Nome do cliente
+- Segmento
+- País
+- Cidade
+- Estado
+- CEP
+- Região
+- ID do produto
+- Categoria
+- Subcategoria
+- Nome do produto
+- Valor da venda
+- Quantidade
+- Desconto
+- Lucro
